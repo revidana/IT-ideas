@@ -2,8 +2,11 @@ cd g:
 cd My\ Drive/
 cd Projectos\ de\ Software/
 cd PROYECTOS/
-cd Curso_GIT/
+cd TI-Ideas
 cd PC_WINDOWS/
+cd TI-Ideas
+ls 
+
 
 #Path para MAC M1
 
